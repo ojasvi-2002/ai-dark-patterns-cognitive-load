@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+psychopy_env/
+venv/
+
+# Experimental data (DO NOT COMMIT)
+data/
+*.csv
+*.json
+
+# macOS system files
+.DS_Store
