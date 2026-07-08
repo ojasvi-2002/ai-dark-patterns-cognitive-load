@@ -247,13 +247,6 @@ For questions or issues:
 
 ---
 
-## Expected Timeline
-
-- **Pilot testing:** 1 week (5-10 participants)
-- **Refinement:** 3-5 days
-- **Full data collection:** 8-10 weeks (120 participants at ~12/week)
-- **Data analysis:** 2-3 weeks
-
 ## File Structure
 
 ```
@@ -267,4 +260,4 @@ incident_response_study/
 └── psychopy_env/         # Virtual environment
 ```
 
-Good luck with your study! 🎓
+
