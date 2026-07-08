@@ -1,4 +1,4 @@
-## ** Incident Response Experiment **
+## Incident Response Experiment
 **Dark Pattern Susceptibility in Cybersecurity Decision-Making**
 
 ## Quick Start Guide for Mac M1
